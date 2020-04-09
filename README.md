@@ -1,5 +1,7 @@
 # GoLang Starter
 
+Basic starter with go modules and makefile
+
 ```
-go run cmd/starter/main.go
+make run
 ```
